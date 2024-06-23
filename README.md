@@ -6,9 +6,8 @@ Once I have the results I was looking for, I used excel to clean and create visu
 To create an analysis that everybody can understand and access easily I used PowerBI to generate a visual report.
 
 ## Used tools🔨
-MS SQL Server 2019
-MS SQL SMS
-Excel (Pivot tables & Graphics)
-Hashnode
-Canva
+* Postgresql
+* Excel (Pivot tables & Graphics)
+* PowerBI
+  
 ## Thank you looking at my repository!!🙌
